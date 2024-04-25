@@ -1,0 +1,16 @@
+ 
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+ 
+body{
+    font-family:'poppins',sans-serif ;
+}
+.material-symbols-outlined{
+    font-size: 30px!important;
+    
+    border-radius: 50%;
+}
+.dropdown_admin{
+    display: none;
+    top: 45px;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
